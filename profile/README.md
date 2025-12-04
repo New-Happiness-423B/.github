@@ -30,7 +30,7 @@ Meet the brilliant minds making it all happen:
 |:---:|:---:|:---|
 | **Owen** | <a href="https://github.com/shiowen"><img src="https://github.com/shiowen.png" width="40px" style="border-radius:50%"/> </a> | **AI Agents & LLMs**. Exploring multi-agent systems and intelligent applications. |
 | **Henry** | <a href="https://github.com/Henry-zwh"><img src="https://github.com/Henry-zwh.png" width="40px" style="border-radius:50%"/> </a> | **Real-time Systems & Control**. Bringing code to life through applications. |
-| **Gary** | <a href="https://github.com/garyhuge05"><img src="https://github.com/garyhuge05.png" width="40px" style="border-radius:50%"/> </a> | **Most stupid of All**. Driving innovation and project architecture. |
+| **Jmike** | <a href="https://github.com/garyhuge05"><img src="https://github.com/garyhuge05.png" width="40px" style="border-radius:50%"/> </a> | **Most stupid of All**. Driving innovation and project architecture. |
 | **St_You** | <a href="https://github.com/youyc22"><img src="https://github.com/youyc22.png" width="40px" style="border-radius:50%"/> </a> | **Efficient DL & Reasoning**. Active in *SGLang* and *AI Research*. |
 ---
 
