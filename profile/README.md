@@ -61,7 +61,7 @@ Interested in what we are building? Or just want to say hi? We'd love to hear fr
 
 * **GitHub Issues**: Feel free to open an issue in any of our repos for discussion.
 * **Collaboration**: Reach out to any of our members via their profiles.
-* **Websites and social media**: reach out to [youyc22.com](https://youyc22.com/) for our major contributor; find owen in [tiktok_china](https://www.douyin.com/user/MS4wLjABAAAAaxetB6l90rv2nKCpAkI2m1M9jqva6oeF54uKD04GgrHGTt4ljGAmrUWKEa_gHU5E?from_tab_name=main&showSubTab=video&showTab=post):muscle:
+<!--* **Websites and social media**: reach out to [youyc22.com](https://youyc22.com/) for our major contributor; find owen in [tiktok_china](https://www.douyin.com/user/MS4wLjABAAAAaxetB6l90rv2nKCpAkI2m1M9jqva6oeF54uKD04GgrHGTt4ljGAmrUWKEa_gHU5E?from_tab_name=main&showSubTab=video&showTab=post):muscle:-->
 
 <div align="center">
 <br/>
